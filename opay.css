@@ -1,0 +1,61 @@
+:root{
+    --main-color: #ffffff;
+    --other-color: #0a4137;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.general-text {
+    font-size: 15px;
+    
+}
+.d{
+    background-color: #4caf50;
+}
+.action{margin: 0px;
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+display: flex;
+    
+}
+body{
+    background-color: #ffffff;
+}
+
+.add-money{
+    background-color: #ffffff;
+    border-radius: 50px;
+    font-size: 12px;
+}
+
+span.balance {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.top-side{
+    border-radius: 15px;
+}
+
+.header-text {
+    color:#4e4c4c;
+    font-weight: bold;
+}
+.game { 
+            margin: 0px;
+            background-color: #fff;
+            padding: 0px;
+            border-radius: 10px;
+}
+.da{
+    font-size: 15px;
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    border: 1px solid white;
+    border-radius: 2px;
+    padding: 0rem;
+    height: 0px;
+}
